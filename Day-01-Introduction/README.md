@@ -73,3 +73,7 @@ System Design sirf code likhne ka naam nahi hai…
 Ab jab bhi koi short link dekhta hoon…
 uske peeche pura system imagine hota hai 😄
 This is just Day 1… aur already perspective change ho gaya 🚀
+
+## Flowchart
+
+![Flowchart](systemDesign_Day01.jpeg)
