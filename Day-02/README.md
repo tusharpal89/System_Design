@@ -95,3 +95,9 @@ Assumption:
 This was just Day 2… but now I’m starting to think like an engineer who cares about 𝘀𝗰𝗮𝗹𝗲, 𝗰𝗼𝘀𝘁, 𝗮𝗻𝗱 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲.
 
 Excited to go deeper..
+
+
+## Flowchart
+
+![Flowchart](System_Design_Day02.jpeg)
+
