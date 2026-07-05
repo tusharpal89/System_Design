@@ -62,7 +62,7 @@ User → App → Cache → DB (if miss)
 ✔ Faster
 ✔ Less DB load
 
-👉 Big thanks to Vishwa Mohan Sir and upGrad School of Technology for making industry-level System Design content freely available for learners like us.
+
 
 💡 𝐁𝐢𝐠 𝐑𝐞𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧:
 System design = simplicity + scale + trade-offs (𝐊𝐈𝐒𝐒 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞)
