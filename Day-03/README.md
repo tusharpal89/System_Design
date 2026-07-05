@@ -70,3 +70,8 @@ System design = simplicity + scale + trade-offs (𝐊𝐈𝐒𝐒 𝐩𝐫𝐢�
 
 Day 3 done ✅
 Ab har short URL ke peeche ka logic aur clear ho raha hai 😄
+
+
+## Flowchart
+
+![Flowchart](Systemdesign03.jpeg)
