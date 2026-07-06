@@ -96,9 +96,6 @@ But learned that:
 ⚠️ Memory intensive
 ⚠️ Still an evolving ecosystem
 
-
-
-
 ⚡ 𝟖. 𝐑𝐞𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐬𝐢𝐠𝐡𝐭 (𝐔𝐑𝐋 𝐒𝐡𝐨𝐫𝐭𝐞𝐧𝐞𝐫)
 
 ❌ Direct DB updates = slow at scale
