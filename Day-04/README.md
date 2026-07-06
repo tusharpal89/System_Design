@@ -131,3 +131,7 @@ Good system design is not about using the most popular database.
 
 Day 4 done ✅
 Now I’m starting to understand why backend architecture decisions are so critical in real-world systems 
+
+## Flowchart
+
+![Flowchart](SystemDesign04.jpeg)
