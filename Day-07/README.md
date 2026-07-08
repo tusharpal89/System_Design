@@ -76,3 +76,7 @@ Start simple.
 Scale only when the product truly demands it. 🚀
 
 Day 7 done ✅
+
+## Flowchart
+
+![Flowchart](SystemDesign07.jpeg)
