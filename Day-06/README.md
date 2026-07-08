@@ -111,3 +111,7 @@ A production-ready system is not built using a single technology.
 It is built by combining caching, databases, load balancing, monitoring, security, and scalability strategies together. 
 Day 6 done ✅
 
+## Flowchart
+
+![Flowchart](SystemDesign06.jpeg)
+
