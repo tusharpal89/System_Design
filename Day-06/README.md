@@ -105,8 +105,8 @@ Scale gradually:
 4️⃣ Network layer
 5️⃣ Geographic distribution using CDN
 
-💡 𝗕𝗶𝗴 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆:
 
+💡 𝗕𝗶𝗴 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆:
 A production-ready system is not built using a single technology.
 It is built by combining caching, databases, load balancing, monitoring, security, and scalability strategies together. 
 Day 6 done ✅
