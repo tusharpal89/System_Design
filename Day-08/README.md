@@ -47,3 +47,7 @@ Scale requirements
 Operational complexity
 Business needs
 Day 8 done ✅
+
+## Flowchart
+
+![Flowchart](Day-08.jpeg)
