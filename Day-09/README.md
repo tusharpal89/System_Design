@@ -38,4 +38,4 @@ Day 9 ✅
 
 ## Flowchart
 
-![Flowchart](flowchart.png)
+![Flowchart](Day09.jpeg)
