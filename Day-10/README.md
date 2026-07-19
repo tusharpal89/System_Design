@@ -81,4 +81,4 @@ System Design is all about understanding these trade-offs rather than memorizing
 
 ## Flowchart
 
-![Flowchart](flowchart.png)
+![Flowchart](Day-10.jpeg)
