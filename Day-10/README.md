@@ -77,3 +77,8 @@ Traffic patterns
 Burst tolerance
 
 System Design is all about understanding these trade-offs rather than memorizing algorithms.
+
+
+## Flowchart
+
+![Flowchart](flowchart.png)
