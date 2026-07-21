@@ -51,13 +51,13 @@ Short URL generate karte waqt same ID repeat ho sakti hai
 
 
 ⚡𝟓. 𝐅𝐢𝐧𝐚𝐥 𝐅𝐥𝐨𝐰
-Generate ID → Encode (Base62) → Store in DB → Return short URL
+Generate ID →  Encode (Base62) → Store in DB → Return short URL
 
 
  𝟔. 𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧 (𝐌𝐮𝐬𝐭 𝐇𝐚𝐯𝐞)
 👉 Use 𝐂𝐚𝐜𝐡𝐢𝐧𝐠
 
-User → App → Cache → DB (if miss)
+User →  App →  Cache →  DB (if miss)
 
 ✔ Faster
 ✔ Less DB load
