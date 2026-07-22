@@ -9,7 +9,7 @@ What started with a simple question:
  turned into a deep dive into different rate-limiting algorithms and their trade-offs.
 
 
-📚 𝗪𝗵𝗮𝘁 𝗜 𝗹𝗲𝗮𝗿𝗻𝗲𝗱 𝘁𝗼𝗱𝗮𝘆
+📚 𝗪𝗵𝗮𝘁 𝗜 𝗹𝗲𝗮𝗿𝗻𝗲𝗱 𝘁𝗼𝗱𝗮𝘆 : -
 
 🔹 𝗙𝗶𝘅𝗲𝗱 𝗪𝗶𝗻𝗱𝗼𝘄 𝗖𝗼𝘂𝗻𝘁𝗲𝗿
 
